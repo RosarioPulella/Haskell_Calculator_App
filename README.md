@@ -1,1 +1,0 @@
-# Haskell_Calculator_App
